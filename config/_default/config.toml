@@ -1,4 +1,5 @@
-baseURL = "https://letsfilipino.com/"
+baseURL = "https://romantic-lamport-949c45.netlify.app/"
+# baseURL = "https://letsfilipino.com"
 languageCode = "en-us"
 title = "A place to explore and enrich Filipino Languages and Culture"
 theme = "zzo"
