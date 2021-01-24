@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://romantic-lamport-949c45.netlify.app/en/posts/bahagi-ng-mukha/</loc>
+    <lastmod>2021-01-22T23:22:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romantic-lamport-949c45.netlify.app/en/</loc>
+    <lastmod>2021-01-22T23:22:13-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ph"
+                href="https://romantic-lamport-949c45.netlify.app/ph/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://romantic-lamport-949c45.netlify.app/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://romantic-lamport-949c45.netlify.app/en/series/learn-filipino-the-natural-way/</loc>
+    <lastmod>2021-01-22T23:22:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romantic-lamport-949c45.netlify.app/en/posts/</loc>
+    <lastmod>2021-01-22T23:22:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romantic-lamport-949c45.netlify.app/en/series/</loc>
+    <lastmod>2021-01-22T23:22:13-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ph"
+                href="https://romantic-lamport-949c45.netlify.app/ph/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://romantic-lamport-949c45.netlify.app/en/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://romantic-lamport-949c45.netlify.app/en/posts/seasons/</loc>
+    <lastmod>2020-11-22T23:28:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romantic-lamport-949c45.netlify.app/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ph"
+                href="https://romantic-lamport-949c45.netlify.app/ph/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://romantic-lamport-949c45.netlify.app/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://romantic-lamport-949c45.netlify.app/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ph"
+                href="https://romantic-lamport-949c45.netlify.app/ph/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://romantic-lamport-949c45.netlify.app/en/tags/"
+                />
+  </url>
+  
+</urlset>

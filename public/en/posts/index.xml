@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Hugo Zzo Theme</title>
+    <link>https://romantic-lamport-949c45.netlify.app/en/posts/</link>
+    <description>Recent content in Posts on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 22 Jan 2021 23:22:13 -0700</lastBuildDate>
+    
+        <atom:link href="https://romantic-lamport-949c45.netlify.app/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Bahagi Ng Mukha</title>
+        <link>https://romantic-lamport-949c45.netlify.app/en/posts/bahagi-ng-mukha/</link>
+        <pubDate>Fri, 22 Jan 2021 23:22:13 -0700</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Fri, 22 Jan 2021 23:22:13 -0700</atom:modified>
+        <guid>https://romantic-lamport-949c45.netlify.app/en/posts/bahagi-ng-mukha/</guid>
+        <description>   </description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+          
+            
+              <category>Learn Filipino the Natural Way</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Seasons</title>
+        <link>https://romantic-lamport-949c45.netlify.app/en/posts/seasons/</link>
+        <pubDate>Sun, 22 Nov 2020 23:28:28 -0700</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sun, 22 Nov 2020 23:28:28 -0700</atom:modified>
+        <guid>https://romantic-lamport-949c45.netlify.app/en/posts/seasons/</guid>
+        <description>   </description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

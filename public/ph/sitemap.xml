@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://romantic-lamport-949c45.netlify.app/ph/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://romantic-lamport-949c45.netlify.app/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ph"
+                href="https://romantic-lamport-949c45.netlify.app/ph/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://romantic-lamport-949c45.netlify.app/ph/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://romantic-lamport-949c45.netlify.app/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ph"
+                href="https://romantic-lamport-949c45.netlify.app/ph/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://romantic-lamport-949c45.netlify.app/ph/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://romantic-lamport-949c45.netlify.app/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ph"
+                href="https://romantic-lamport-949c45.netlify.app/ph/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://romantic-lamport-949c45.netlify.app/ph/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://romantic-lamport-949c45.netlify.app/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ph"
+                href="https://romantic-lamport-949c45.netlify.app/ph/tags/"
+                />
+  </url>
+  
+</urlset>
