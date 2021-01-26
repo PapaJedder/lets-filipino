@@ -5,6 +5,9 @@ draft: false
 description: Primary Parts of the Face
 series:
 - Learn Filipino the Natural Way
+tags:
+- tprs
+- comprehensive input
 ---
 
 

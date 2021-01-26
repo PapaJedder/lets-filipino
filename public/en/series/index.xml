@@ -6,30 +6,30 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Series on Hugo Zzo Theme</title>
-    <link>https://romantic-lamport-949c45.netlify.app/en/series/</link>
-    <description>Recent content in Series on Hugo Zzo Theme</description>
+    <title>Series on Lets Filipino</title>
+    <link>http://letsfilipino.com/en/series/</link>
+    <description>Recent content in Series on Lets Filipino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>papajedder@gmail.com (papajedder)</managingEditor>
+    <webMaster>papajedder@gmail.com (papajedder)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 22 Jan 2021 23:22:13 -0700</lastBuildDate>
     
-        <atom:link href="https://romantic-lamport-949c45.netlify.app/en/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://letsfilipino.com/en/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Learn Filipino the Natural Way</title>
-        <link>https://romantic-lamport-949c45.netlify.app/en/series/learn-filipino-the-natural-way/</link>
+        <link>http://letsfilipino.com/en/series/learn-filipino-the-natural-way/</link>
         <pubDate>Fri, 22 Jan 2021 23:22:13 -0700</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>papajedder@gmail.com (papajedder)</author>
         
-        <guid>https://romantic-lamport-949c45.netlify.app/en/series/learn-filipino-the-natural-way/</guid>
+        <guid>http://letsfilipino.com/en/series/learn-filipino-the-natural-way/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>papajedder</dc:creator>
         
         
         

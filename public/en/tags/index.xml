@@ -6,18 +6,217 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Tags on Hugo Zzo Theme</title>
-    <link>https://romantic-lamport-949c45.netlify.app/en/tags/</link>
-    <description>Recent content in Tags on Hugo Zzo Theme</description>
+    <title>Tags on Lets Filipino</title>
+    <link>http://letsfilipino.com/en/tags/</link>
+    <description>Recent content in Tags on Lets Filipino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>papajedder@gmail.com (papajedder)</managingEditor>
+    <webMaster>papajedder@gmail.com (papajedder)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 24 Jan 2021 18:59:21 -0700</lastBuildDate>
     
-        <atom:link href="https://romantic-lamport-949c45.netlify.app/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://letsfilipino.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>basics</title>
+        <link>http://letsfilipino.com/en/tags/basics/</link>
+        <pubDate>Sun, 24 Jan 2021 18:59:21 -0700</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        
+        <guid>http://letsfilipino.com/en/tags/basics/</guid>
+        <description></description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>tips</title>
+        <link>http://letsfilipino.com/en/tags/tips/</link>
+        <pubDate>Sun, 24 Jan 2021 18:59:21 -0700</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        
+        <guid>http://letsfilipino.com/en/tags/tips/</guid>
+        <description></description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>comprehensive input</title>
+        <link>http://letsfilipino.com/en/tags/comprehensive-input/</link>
+        <pubDate>Sun, 24 Jan 2021 17:10:42 -0700</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        
+        <guid>http://letsfilipino.com/en/tags/comprehensive-input/</guid>
+        <description></description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>tprs</title>
+        <link>http://letsfilipino.com/en/tags/tprs/</link>
+        <pubDate>Sun, 24 Jan 2021 17:10:42 -0700</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        
+        <guid>http://letsfilipino.com/en/tags/tprs/</guid>
+        <description></description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>spanish derived</title>
+        <link>http://letsfilipino.com/en/tags/spanish-derived/</link>
+        <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        
+        <guid>http://letsfilipino.com/en/tags/spanish-derived/</guid>
+        <description></description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>introduction</title>
+        <link>http://letsfilipino.com/en/tags/introduction/</link>
+        <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        
+        <guid>http://letsfilipino.com/en/tags/introduction/</guid>
+        <description></description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>greetings</title>
+        <link>http://letsfilipino.com/en/tags/greetings/</link>
+        <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        
+        <guid>http://letsfilipino.com/en/tags/greetings/</guid>
+        <description></description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>occassions</title>
+        <link>http://letsfilipino.com/en/tags/occassions/</link>
+        <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        
+        <guid>http://letsfilipino.com/en/tags/occassions/</guid>
+        <description></description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>funny</title>
+        <link>http://letsfilipino.com/en/tags/funny/</link>
+        <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        
+        <guid>http://letsfilipino.com/en/tags/funny/</guid>
+        <description></description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>word pairs</title>
+        <link>http://letsfilipino.com/en/tags/word-pairs/</link>
+        <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        
+        <guid>http://letsfilipino.com/en/tags/word-pairs/</guid>
+        <description></description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>occasions</title>
+        <link>http://letsfilipino.com/en/tags/occasions/</link>
+        <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        
+        <guid>http://letsfilipino.com/en/tags/occasions/</guid>
+        <description></description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
 
     

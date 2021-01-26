@@ -3,81 +3,293 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://romantic-lamport-949c45.netlify.app/en/posts/bahagi-ng-mukha/</loc>
-    <lastmod>2021-01-22T23:22:13-07:00</lastmod>
+    <loc>http://letsfilipino.com/en/tags/basics/</loc>
+    <lastmod>2021-01-24T18:59:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://romantic-lamport-949c45.netlify.app/en/</loc>
-    <lastmod>2021-01-22T23:22:13-07:00</lastmod>
+    <loc>http://letsfilipino.com/en/categories/</loc>
+    <lastmod>2021-01-24T18:59:21-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ph"
-                href="https://romantic-lamport-949c45.netlify.app/ph/"
+                href="http://letsfilipino.com/ph/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://romantic-lamport-949c45.netlify.app/en/"
+                href="http://letsfilipino.com/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://romantic-lamport-949c45.netlify.app/en/series/learn-filipino-the-natural-way/</loc>
-    <lastmod>2021-01-22T23:22:13-07:00</lastmod>
+    <loc>http://letsfilipino.com/en/categories/lessons/</loc>
+    <lastmod>2021-01-24T18:59:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://romantic-lamport-949c45.netlify.app/en/posts/</loc>
-    <lastmod>2021-01-22T23:22:13-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romantic-lamport-949c45.netlify.app/en/series/</loc>
-    <lastmod>2021-01-22T23:22:13-07:00</lastmod>
+    <loc>http://letsfilipino.com/en/</loc>
+    <lastmod>2021-01-24T18:59:21-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ph"
-                href="https://romantic-lamport-949c45.netlify.app/ph/series/"
+                href="http://letsfilipino.com/ph/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://romantic-lamport-949c45.netlify.app/en/series/"
+                href="http://letsfilipino.com/en/"
                 />
   </url>
   
   <url>
-    <loc>https://romantic-lamport-949c45.netlify.app/en/posts/seasons/</loc>
+    <loc>http://letsfilipino.com/en/posts/2018/most-powerful-word/</loc>
+    <lastmod>2021-01-24T18:59:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/</loc>
+    <lastmod>2021-01-24T18:59:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/tags/</loc>
+    <lastmod>2021-01-24T18:59:21-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ph"
+                href="http://letsfilipino.com/ph/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://letsfilipino.com/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/tags/tips/</loc>
+    <lastmod>2021-01-24T18:59:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2021/comprehensive-input/</loc>
+    <lastmod>2021-01-24T17:10:42-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/tags/comprehensive-input/</loc>
+    <lastmod>2021-01-24T17:10:42-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/tags/tprs/</loc>
+    <lastmod>2021-01-24T17:10:42-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/archive/</loc>
+    <lastmod>2021-01-24T16:42:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2021/bahagi-ng-mukha/</loc>
+    <lastmod>2021-01-22T23:22:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/series/learn-filipino-the-natural-way/</loc>
+    <lastmod>2021-01-22T23:22:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/series/</loc>
+    <lastmod>2021-01-22T23:22:13-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ph"
+                href="http://letsfilipino.com/ph/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://letsfilipino.com/en/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2020/seasons/</loc>
     <lastmod>2020-11-22T23:28:28-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://romantic-lamport-949c45.netlify.app/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ph"
-                href="https://romantic-lamport-949c45.netlify.app/ph/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://romantic-lamport-949c45.netlify.app/en/categories/"
-                />
+    <loc>http://letsfilipino.com/en/posts/2020/mag-ingat/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://romantic-lamport-949c45.netlify.app/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ph"
-                href="https://romantic-lamport-949c45.netlify.app/ph/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://romantic-lamport-949c45.netlify.app/en/tags/"
-                />
+    <loc>http://letsfilipino.com/en/posts/2020/nga-nge-ngi/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/categories/subscribers-request/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2020/months-of-the-year/</loc>
+    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/tags/spanish-derived/</loc>
+    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2019/ask-someone-out/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2019/days-of-the-week/</loc>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2019/i-am-papajedder/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/tags/introduction/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2019/ten-fingers/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2019/nye-resolution/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2018/sound-like-native/</loc>
+    <lastmod>2018-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2018/mag-bilang-tayo-song/</loc>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/categories/songs/</loc>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2018/top5-tagalog-verbs/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2018/bulate-ni-papajedder/</loc>
+    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2018/count-one-to-ten/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2018/tayo-nang-mag-filipino/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2018/basic-greetings/</loc>
+    <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/tags/greetings/</loc>
+    <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2018/how-are-you/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/tags/occassions/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2018/valentines/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2018/bulkan-mayon/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/tags/funny/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/tags/word-pairs/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2018/yes-or-no/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2018/happy-birthday/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2017/merry-christmas/</loc>
+    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/tags/occasions/</loc>
+    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2017/the-last-jedi/</loc>
+    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2017/you-are-welcome/</loc>
+    <lastmod>2017-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2017/thank-you/</loc>
+    <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/en/posts/2017/lets-filipino-time/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

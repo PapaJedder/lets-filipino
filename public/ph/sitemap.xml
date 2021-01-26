@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://romantic-lamport-949c45.netlify.app/ph/categories/</loc>
+    <loc>http://letsfilipino.com/ph/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://romantic-lamport-949c45.netlify.app/en/categories/"
+                href="http://letsfilipino.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ph"
-                href="https://romantic-lamport-949c45.netlify.app/ph/categories/"
+                href="http://letsfilipino.com/ph/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://romantic-lamport-949c45.netlify.app/ph/</loc>
+    <loc>http://letsfilipino.com/ph/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://romantic-lamport-949c45.netlify.app/en/"
+                href="http://letsfilipino.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ph"
-                href="https://romantic-lamport-949c45.netlify.app/ph/"
+                href="http://letsfilipino.com/ph/"
                 />
   </url>
   
   <url>
-    <loc>https://romantic-lamport-949c45.netlify.app/ph/series/</loc>
+    <loc>http://letsfilipino.com/ph/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://romantic-lamport-949c45.netlify.app/en/series/"
+                href="http://letsfilipino.com/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ph"
-                href="https://romantic-lamport-949c45.netlify.app/ph/series/"
+                href="http://letsfilipino.com/ph/series/"
                 />
   </url>
   
   <url>
-    <loc>https://romantic-lamport-949c45.netlify.app/ph/tags/</loc>
+    <loc>http://letsfilipino.com/ph/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://romantic-lamport-949c45.netlify.app/en/tags/"
+                href="http://letsfilipino.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ph"
-                href="https://romantic-lamport-949c45.netlify.app/ph/tags/"
+                href="http://letsfilipino.com/ph/tags/"
                 />
   </url>
   

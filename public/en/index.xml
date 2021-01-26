@@ -6,17 +6,17 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Hugo Zzo Theme</title>
-    <link>https://romantic-lamport-949c45.netlify.app/en/</link>
-    <description>Recent content on Hugo Zzo Theme</description>
+    <title>Lets Filipino</title>
+    <link>http://letsfilipino.com/en/</link>
+    <description>Recent content on Lets Filipino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>papajedder@gmail.com (papajedder)</managingEditor>
+    <webMaster>papajedder@gmail.com (papajedder)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 22 Jan 2021 23:22:13 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jan 2021 18:59:21 -0700</lastBuildDate>
     
-        <atom:link href="https://romantic-lamport-949c45.netlify.app/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://letsfilipino.com/en/index.xml" rel="self" type="application/rss+xml" />
     
       
       
@@ -42,18 +42,90 @@
 
       
       <item>
-        <title>Bahagi Ng Mukha</title>
-        <link>https://romantic-lamport-949c45.netlify.app/en/posts/bahagi-ng-mukha/</link>
-        <pubDate>Fri, 22 Jan 2021 23:22:13 -0700</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        <atom:modified>Fri, 22 Jan 2021 23:22:13 -0700</atom:modified>
-        <guid>https://romantic-lamport-949c45.netlify.app/en/posts/bahagi-ng-mukha/</guid>
+        <title>Most Powerful Word</title>
+        <link>http://letsfilipino.com/en/posts/2018/most-powerful-word/</link>
+        <pubDate>Sun, 24 Jan 2021 18:59:21 -0700</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Sun, 24 Jan 2021 18:59:21 -0700</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2018/most-powerful-word/</guid>
         <description>   </description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>papajedder</dc:creator>
         
         
         
+        
+          
+            
+              <category>basics</category>
+            
+          
+            
+              <category>tips</category>
+            
+          
+        
+        
+          
+            
+              <category>Lessons</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Comprehensive Input</title>
+        <link>http://letsfilipino.com/en/posts/2021/comprehensive-input/</link>
+        <pubDate>Sun, 24 Jan 2021 17:10:42 -0700</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Sun, 24 Jan 2021 17:10:42 -0700</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2021/comprehensive-input/</guid>
+        <description></description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>tprs</category>
+            
+          
+            
+              <category>comprehensive input</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Bahagi Ng Mukha</title>
+        <link>http://letsfilipino.com/en/posts/2021/bahagi-ng-mukha/</link>
+        <pubDate>Fri, 22 Jan 2021 23:22:13 -0700</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Fri, 22 Jan 2021 23:22:13 -0700</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2021/bahagi-ng-mukha/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>tprs</category>
+            
+          
+            
+              <category>comprehensive input</category>
+            
+          
         
         
         
@@ -67,18 +139,749 @@
       
       <item>
         <title>Seasons</title>
-        <link>https://romantic-lamport-949c45.netlify.app/en/posts/seasons/</link>
+        <link>http://letsfilipino.com/en/posts/2020/seasons/</link>
         <pubDate>Sun, 22 Nov 2020 23:28:28 -0700</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>papajedder@gmail.com (papajedder)</author>
         <atom:modified>Sun, 22 Nov 2020 23:28:28 -0700</atom:modified>
-        <guid>https://romantic-lamport-949c45.netlify.app/en/posts/seasons/</guid>
+        <guid>http://letsfilipino.com/en/posts/2020/seasons/</guid>
         <description>   </description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>papajedder</dc:creator>
         
         
         
         
+        
+        
+      </item>
+      
+      <item>
+        <title>Mag Ingat</title>
+        <link>http://letsfilipino.com/en/posts/2020/mag-ingat/</link>
+        <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Wed, 27 May 2020 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2020/mag-ingat/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Nga Nge Ngi Ngo Ngu</title>
+        <link>http://letsfilipino.com/en/posts/2020/nga-nge-ngi/</link>
+        <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Fri, 22 May 2020 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2020/nga-nge-ngi/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+        
+          
+            
+              <category>Subscriber&#39;s Request</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Months of the Year</title>
+        <link>http://letsfilipino.com/en/posts/2020/months-of-the-year/</link>
+        <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Fri, 10 Apr 2020 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2020/months-of-the-year/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+            
+              <category>spanish derived</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>Learn Filipino the Natural Way</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Ask Someone Out</title>
+        <link>http://letsfilipino.com/en/posts/2019/ask-someone-out/</link>
+        <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Tue, 10 Sep 2019 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2019/ask-someone-out/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Subscriber&#39;s Request</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Days of the Week</title>
+        <link>http://letsfilipino.com/en/posts/2019/days-of-the-week/</link>
+        <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Sun, 07 Jul 2019 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2019/days-of-the-week/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+            
+              <category>spanish derived</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>Learn Filipino the Natural Way</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>I Am Papajedder</title>
+        <link>http://letsfilipino.com/en/posts/2019/i-am-papajedder/</link>
+        <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Fri, 29 Mar 2019 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2019/i-am-papajedder/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+            
+              <category>introduction</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>Learn Filipino the Natural Way</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Ten Fingers</title>
+        <link>http://letsfilipino.com/en/posts/2019/ten-fingers/</link>
+        <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Fri, 29 Mar 2019 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2019/ten-fingers/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>Learn Filipino the Natural Way</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Nye Resolution</title>
+        <link>http://letsfilipino.com/en/posts/2019/nye-resolution/</link>
+        <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Thu, 03 Jan 2019 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2019/nye-resolution/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Sound Like Native</title>
+        <link>http://letsfilipino.com/en/posts/2018/sound-like-native/</link>
+        <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Tue, 27 Nov 2018 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2018/sound-like-native/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Mag-Bilang Tayo Song</title>
+        <link>http://letsfilipino.com/en/posts/2018/mag-bilang-tayo-song/</link>
+        <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Mon, 19 Nov 2018 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2018/mag-bilang-tayo-song/</guid>
+        <description>   </description>
+        
+        <dc:creator>Papa Jedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+        
+        
+          
+            
+              <category>Songs</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Top5 Tagalog Verbs</title>
+        <link>http://letsfilipino.com/en/posts/2018/top5-tagalog-verbs/</link>
+        <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Tue, 30 Oct 2018 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2018/top5-tagalog-verbs/</guid>
+        <description>   </description>
+        
+        <dc:creator>Papa Jedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+        
+        
+          
+            
+              <category>Lessons</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Bulate Ni Papajedder</title>
+        <link>http://letsfilipino.com/en/posts/2018/bulate-ni-papajedder/</link>
+        <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Mon, 22 Oct 2018 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2018/bulate-ni-papajedder/</guid>
+        <description>   </description>
+        
+        <dc:creator>Papa Jedder</dc:creator>
+        
+        
+        
+        
+        
+          
+            
+              <category>Songs</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Count One to Ten</title>
+        <link>http://letsfilipino.com/en/posts/2018/count-one-to-ten/</link>
+        <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Mon, 01 Oct 2018 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2018/count-one-to-ten/</guid>
+        <description>   </description>
+        
+        <dc:creator>Papa Jedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Tayo Nang Mag Filipino</title>
+        <link>http://letsfilipino.com/en/posts/2018/tayo-nang-mag-filipino/</link>
+        <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Wed, 01 Aug 2018 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2018/tayo-nang-mag-filipino/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+        
+        
+          
+            
+              <category>Songs</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Basic Greetings</title>
+        <link>http://letsfilipino.com/en/posts/2018/basic-greetings/</link>
+        <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Mon, 16 Jul 2018 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2018/basic-greetings/</guid>
+        <description>   </description>
+        
+        <dc:creator>Papa Jedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+            
+              <category>greetings</category>
+            
+          
+        
+        
+          
+            
+              <category>Lessons</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>How Are You</title>
+        <link>http://letsfilipino.com/en/posts/2018/how-are-you/</link>
+        <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Fri, 29 Jun 2018 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2018/how-are-you/</guid>
+        <description>   </description>
+        
+        <dc:creator>Papa Jedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+            
+              <category>greetings</category>
+            
+          
+        
+        
+          
+            
+              <category>Lessons</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Valentines</title>
+        <link>http://letsfilipino.com/en/posts/2018/valentines/</link>
+        <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Tue, 13 Feb 2018 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2018/valentines/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+            
+              <category>occassions</category>
+            
+          
+        
+        
+          
+            
+              <category>Lessons</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Bulkan Mayon</title>
+        <link>http://letsfilipino.com/en/posts/2018/bulkan-mayon/</link>
+        <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Wed, 24 Jan 2018 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2018/bulkan-mayon/</guid>
+        <description>   </description>
+        
+        <dc:creator>Papa Jedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>funny</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Yes or No</title>
+        <link>http://letsfilipino.com/en/posts/2018/yes-or-no/</link>
+        <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Thu, 18 Jan 2018 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2018/yes-or-no/</guid>
+        <description>   </description>
+        
+        <dc:creator>Papa Jedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+            
+              <category>word pairs</category>
+            
+          
+        
+        
+          
+            
+              <category>Lessons</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Happy Birthday</title>
+        <link>http://letsfilipino.com/en/posts/2018/happy-birthday/</link>
+        <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Sun, 07 Jan 2018 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2018/happy-birthday/</guid>
+        <description>Lesson   Vocabulary    Tagalog English Interpretation     Maligaya happy, joyful   bati, pagbati greeting   araw day   kaarawan anniversary    Song This is how we sing Happy Birthday. Follow along.
+  </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+            
+              <category>greetings</category>
+            
+          
+        
+        
+          
+            
+              <category>Lessons</category>
+            
+          
+            
+              <category>Songs</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Merry Christmas</title>
+        <link>http://letsfilipino.com/en/posts/2017/merry-christmas/</link>
+        <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Sat, 30 Dec 2017 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2017/merry-christmas/</guid>
+        <description>   </description>
+        
+        <dc:creator>Papa Jedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+            
+              <category>occasions</category>
+            
+          
+        
+        
+          
+            
+              <category>Lessons</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>The Last Jedi</title>
+        <link>http://letsfilipino.com/en/posts/2017/the-last-jedi/</link>
+        <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Sat, 30 Dec 2017 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2017/the-last-jedi/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>You Are Welcome</title>
+        <link>http://letsfilipino.com/en/posts/2017/you-are-welcome/</link>
+        <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Thu, 28 Dec 2017 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2017/you-are-welcome/</guid>
+        <description>   </description>
+        
+        <dc:creator>Papa Jedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+        
+        
+          
+            
+              <category>Lessons</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Thank You</title>
+        <link>http://letsfilipino.com/en/posts/2017/thank-you/</link>
+        <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Sun, 24 Dec 2017 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2017/thank-you/</guid>
+        <description>   </description>
+        
+        <dc:creator>Papa Jedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+        
+        
+          
+            
+              <category>Lessons</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Lets Filipino Time</title>
+        <link>http://letsfilipino.com/en/posts/2017/lets-filipino-time/</link>
+        <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Sat, 23 Dec 2017 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2017/lets-filipino-time/</guid>
+        <description>   </description>
+        
+        <dc:creator>Papa Jedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>introduction</category>
+            
+          
+        
+        
+          
+            
+          
         
         
       </item>
