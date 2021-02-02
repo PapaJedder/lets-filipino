@@ -1,8 +1,9 @@
 [[main]]
-  identifier = "about"
-  name = "About"
-  url = "about"
+  identifier = "home"
+  name = "Home"
+  url = "/"
   weight = 1
+
 
 [[main]]
   identifier = "archive"
@@ -10,11 +11,11 @@
   url = "archive"
   weight = 2
 
-[[main]]
-  identifier = "presentation"
-  name = "Tools"
-  url = "presentation"
-  weight = 3
+# [[main]]
+#   identifier = "presentation"
+#   name = "Tools"
+#   url = "presentation"
+#   weight = 3
 
 # [[main]]
 #   identifier = "gallery"
@@ -63,4 +64,27 @@
 #   name = "Pub"
 #   url = "publication"
 #   weight = 7
+
+
+# Social Media
+[[main]]
+  identifier = "social"
+  name = "Social"
+  weight = 6
+
+[[main]]
+  parent = "social"
+  name = "YouTube"
+  url = "https://www.youtube.com/channel/UCd2GYeVAsuDE-qUdxtUEs8A"
+
+[[main]]
+  parent = "social"
+  name = "FaceBook"
+  url = "https://www.facebook.com/letsfilipino"
+
+[[main]]
+  parent = "social"
+  name = "Instagram"
+  url = "https://www.instagram.com/papajedder/"
+
 
