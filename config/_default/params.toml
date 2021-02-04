@@ -58,7 +58,7 @@ typeIcon = "🎯"
 # whoami
 myname = "papajedder"
 email = "papajedder@gmail.com"
-whoami = "Filipino Advocate"
+whoami = "Comedian | System Analyst | Entertainer"
 bioImageUrl = ""
 useGravatar = false
 location = "Alberta, Canada"
@@ -157,13 +157,13 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "papajedder@gmail.com"
+  email = "mailto:papajedder@gmail.com"
   phone = ""
   facebook = "https://www.facebook.com/letsfilipino"
   twitter = ""
   github = ""
   stack-overflow = ""
-  instagram = ""
+  instagram = "https://www.instagram.com/papajedder/"
   google-plus = ""
   youtube = "https://www.youtube.com/channel/UCd2GYeVAsuDE-qUdxtUEs8A"
   medium = ""
