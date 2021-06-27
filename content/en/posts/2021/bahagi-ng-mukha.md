@@ -8,6 +8,7 @@ series:
 tags:
 - tprs
 - comprehensive input
+image: "images/lftnw/lftnw-mukha.png"
 ---
 
 
