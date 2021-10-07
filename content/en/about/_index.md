@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Let's Filipino is project to primarily supplement Filipino lanugage learning and acquisition
+Let's Filipino is a project to primarily supplement Filipino language learning and acquisition.
