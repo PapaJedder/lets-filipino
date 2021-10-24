@@ -2,6 +2,10 @@
 title: "Mga Laruan"
 date: 2021-10-23T22:30:08-06:00
 draft: false
+tags:
+- tprs
+- comprehensive input
+image: "https://i9.ytimg.com/vi_webp/gAzq_RwJQ-E/mqdefault.webp?v=6174dcc2&sqp=CPC904sG&rs=AOn4CLBclz9Pz7IVulvaAR5aOp1bpaaUkw"
 ---
 
 {{< youtube gAzq_RwJQ-E >}}
